@@ -1,7 +1,8 @@
-Hello Everyone , I am Tushar Sarda an undergraduate student at IIT BHU .
-I am a Machine Learning , Data Science Enthusiast . 
+🙋‍♂️ About Me
 
-<!---
-Tushar-Sarda-06/Tushar-Sarda-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech+M.Tech student at IIT (BHU) Varanasi, batch of 2026
+- Passionate about Machine Learning, Deep Learning, NLP, and Data Science
+- Currently building end-to-end ML projects — from raw data to deployed apps
+- Exploring the intersection of AI/ML and real-world problem solving
+- Actively preparing for campus placements — targeting Data Science & ML roles
+- Believer in learning by building
